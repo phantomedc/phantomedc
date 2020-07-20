@@ -3,7 +3,7 @@
 
 > Keep calm and coding.
 
-🇨🇳 China Nanjing・🕹backend developer
+🇨🇳 Nanjing China・🕹backend developer
 
 https://phantomedc.github.io
 <!--
